@@ -1,0 +1,6 @@
+Enter the number : Enter elements are : 
+
+If press 1 then go to insert option.
+If press 2 then go to delete option.
+If press 0 then go to exit.
+Exit
